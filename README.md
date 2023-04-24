@@ -6,5 +6,6 @@ I'm a self-taught data analyst working on developing data skills. I have a keen 
 ✍️📝Writing
 
 📬Connect with Me📬
-[Twitter](twitter.com/lacostey94/)
+[Twitter](https://twitter.com/lacostey94)
+
 [Linkedin](https://www.linkedin.com/in/feyisayo-olugbenga/)
