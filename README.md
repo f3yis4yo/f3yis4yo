@@ -1,6 +1,7 @@
 👋Hi, I'm Feyisayo Olugbenga
 
-I'm a self-taught data analyst working as a freelancer. I have a keen interest in modeling, wrangling, and solving data problems, as well as story telling. Outside of work, I enjoy...
+I am a skilled and analytical data analyst with a passion for extracting meaningful insights from complex datasets. I have developed a strong proficiency in data manipulation, statistical analysis, and data visualization.
+Outside of work, I enjoy...
 
 ⚽ Playing football and watching Chelsea FC (The best club in the world.) 📚 Reading ✍️📝Writing
 
